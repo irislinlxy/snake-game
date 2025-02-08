@@ -35,11 +35,6 @@ python snake.py
     <li>Food spawns randomly, and eating it increases the score.</li>
 </ul>
 
-<h2>📸 Screenshots</h2>
-<p>Add screenshots of the game here!</p>
-
-<h2>📜 License</h2>
-<p>This project is licensed under the MIT License.</p>
 
 <h2>⭐️ Contributions</h2>
 <p> Iris Lin
