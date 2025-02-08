@@ -21,7 +21,7 @@
 
 <p>Clone the repository and run the script:</p>
 
-<pre><code>git clone https://github.com/yourusername/snake-game.git
+<pre><code>git clone https://github.com/irislinlxy/snake-game.git
 cd snake-game
 python snake.py
 </code></pre>
